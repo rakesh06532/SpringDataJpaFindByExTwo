@@ -1,0 +1,1 @@
+# SpringDataJpaFindByExTwo
